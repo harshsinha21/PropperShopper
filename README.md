@@ -1,8 +1,8 @@
 # PROPER SHOPPER
 
-Original developers: [Teah Markstone](https://github.com/teahmarkstone/) and [Daniel Kasenberg](https://github.com/dkasenberg/)
+Original developers: [Teah Markstone](https://github.com/teahmarkstone/) and [Daniel Kasenberg](https://github.com/dkasenberg/) and [Matthias Scheutz](https://github.com/mscheutz/)
 
-Additional developers: [Matthias Scheutz](https://github.com/mscheutz/)
+AgentTraining: Harsh Sinha
 
 ## Additions by Kat, Mavis, Harsh, Ju-Hung, and Luoyou
 How to run:
