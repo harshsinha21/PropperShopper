@@ -2,7 +2,8 @@
 
 Original developers: [Teah Markstone](https://github.com/teahmarkstone/) and [Daniel Kasenberg](https://github.com/dkasenberg/) and [Matthias Scheutz](https://github.com/mscheutz/)
 
-AgentTraining: Harsh Sinha
+AgentTraining: Harsh, Mavis, Kat, Ju-Hung, Luoyou
+
 
 ## Additions by Kat, Mavis, Harsh, Ju-Hung, and Luoyou
 How to run:
